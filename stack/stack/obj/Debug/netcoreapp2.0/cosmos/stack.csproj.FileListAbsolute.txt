@@ -1,0 +1,9 @@
+C:\Users\bumbl\Desktop\stack\stack\bin\Debug\netcoreapp2.0\cosmos\stack.deps.json
+C:\Users\bumbl\Desktop\stack\stack\bin\Debug\netcoreapp2.0\cosmos\stack.dll
+C:\Users\bumbl\Desktop\stack\stack\bin\Debug\netcoreapp2.0\cosmos\stack.pdb
+C:\Users\bumbl\Desktop\stack\stack\obj\Debug\netcoreapp2.0\cosmos\stack.csprojAssemblyReference.cache
+C:\Users\bumbl\Desktop\stack\stack\obj\Debug\netcoreapp2.0\cosmos\stack.csproj.CoreCompileInputs.cache
+C:\Users\bumbl\Desktop\stack\stack\obj\Debug\netcoreapp2.0\cosmos\stack.AssemblyInfoInputs.cache
+C:\Users\bumbl\Desktop\stack\stack\obj\Debug\netcoreapp2.0\cosmos\stack.AssemblyInfo.cs
+C:\Users\bumbl\Desktop\stack\stack\obj\Debug\netcoreapp2.0\cosmos\stack.dll
+C:\Users\bumbl\Desktop\stack\stack\obj\Debug\netcoreapp2.0\cosmos\stack.pdb
