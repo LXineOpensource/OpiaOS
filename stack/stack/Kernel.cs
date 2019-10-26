@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using Sys = Cosmos.System;
+using System.Drawing;
+
+
+
 
 namespace stack
 {
@@ -23,7 +27,7 @@ namespace stack
 
         protected override void Run()
         {
-            Console.WriteLine("C:/>>");
+            Console.Write("C:/>>");
             string input = "";
 
             input = Console.ReadLine();
@@ -43,12 +47,15 @@ namespace stack
 
             if (input == "help")
             {
+                Console.BackgroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("help - All Avalible commands");
                 Console.WriteLine("dir - List of Directories");
                 Console.WriteLine("osver - Info about os");
                 Console.WriteLine("printcolor - Prints 3 colors");
                 Console.WriteLine("license - Open source info");
                 Console.WriteLine("cls - Clears Terminal texts");
+                Console.WriteLine("soundtest - plays sound based of beeper");
+                Console.ResetColor();
             }
 
             else if (input == "osver")
@@ -74,8 +81,8 @@ namespace stack
                 Console.BackgroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Blue");
                 Console.ResetColor();
-              
-                
+
+
 
             }
 
@@ -87,6 +94,32 @@ namespace stack
             else if (input == "cls")
             {
                 Console.Clear();
+            }
+            else if (input == "soundtest")
+            {
+                Console.Beep(500, 100);
+                Console.Beep(400, 100);
+                Console.Beep(500, 100);
+                Console.Beep(400, 100);
+                Console.Beep(700, 700);
+                Console.Beep(550, 500);
+            }
+            else if(input == "cd")
+            {
+                Console.WriteLine("There is no directories");
+
+            }
+            else if (input == "time")
+            {
+                DateTime now = DateTime.Now;
+                Console.BackgroundColor = ConsoleColor.Blue;
+                Console.WriteLine(now);
+                Console.ReadLine();
+                Console.ResetColor();
+            }
+            else if (input == "printimage1")
+            {
+                
             }
 
             else
