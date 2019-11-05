@@ -1,4 +1,4 @@
-# Stack_os
+# Opia-Os
 A operating system in public beta phase visit the official website
-https://stackos.carrd.co/
+https://sites.google.com/view/opiaos/home
 Based on Cosmos
