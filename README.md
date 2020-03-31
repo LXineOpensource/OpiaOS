@@ -19,7 +19,7 @@ Now you can fix bugs or do whatever you need to do in order to improve the code 
  
 If the project has tests run them! Write or adapt tests as needed. Add or change the documentation as needed. Remember to make sure the changes are applied only to the branch you created!
 
-Open [CONTRIBUTORS.md](https://github.com/PN6723/covid-19/blob/master/CONTRIBUTORS.md) in a text editor and add your name to it. Don’t add it at the beginning or the end of the file, add it anywhere in the middle of it.
+Open CONTRIBUTORS.md in a text editor and add your name to it. Don’t add it at the beginning or the end of the file, add it anywhere in the middle of it.
 
 Now, save the file.
 
