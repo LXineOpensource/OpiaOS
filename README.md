@@ -26,3 +26,7 @@ Now, save the file.
 Commit those changes by doing git commit -m "Added <your-name> to contributors list “-m” tells git that you are committing the changes with a message to tell people what the commit is about.
   
 Push those changes to the forked repository on Github via: git push origin <your-branch-name> replacing “<your-branch-name> with the name of the branch you created earlier.
+ 
+# How it works
+
+OpiaOS functions thanks to Cosmos Kit that we mentioned earlier and is based on a monolithic kernel programmed in Visual C#.
