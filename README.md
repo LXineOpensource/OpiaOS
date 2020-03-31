@@ -1,4 +1,4 @@
-# Opia-Os
+# Opia-OS
 A operating system in public beta phase
 
 Visit the official website if you desire to learn more [OpiaOS](https://sites.google.com/view/opiaos/home)
