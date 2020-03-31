@@ -16,9 +16,9 @@ namespace stack
             Console.BackgroundColor = ConsoleColor.Red;
             Console.WriteLine(" Booted successfully. Type 'help' for avalible commands ");
             Console.ResetColor();
-            Console.WriteLine("Stack os");
-            Console.WriteLine("Sam lee (c) 2019");
-            Console.WriteLine("Cosmos project (c) 2019");
+            Console.WriteLine("Stack OS");
+            Console.WriteLine("Sam Lee (c) 2020");
+            Console.WriteLine("Cosmos project (c) 2020");
             Console.WriteLine("");
             Console.WriteLine("WELCOME TO STACK OS");
             Console.WriteLine("");
@@ -50,17 +50,17 @@ namespace stack
                 Console.BackgroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("help - All Avalible commands");
                 Console.WriteLine("dir - List of Directories");
-                Console.WriteLine("osver - Info about os");
+                Console.WriteLine("osver - Info about the OS");
                 Console.WriteLine("printcolor - Prints 3 colors");
                 Console.WriteLine("license - Open source info");
-                Console.WriteLine("cls - Clears Terminal texts");
-                Console.WriteLine("soundtest - plays sound based of beeper");
+                Console.WriteLine("cls - Clears all terminal texts");
+                Console.WriteLine("soundtest - Plays sound based of a beeper");
                 Console.ResetColor();
             }
 
             else if (input == "osver")
             {
-                Console.WriteLine("Stack os 0.2 (c) Sam Lee");
+                Console.WriteLine("Stack OS 0.2 (c) Sam Lee");
                 Console.WriteLine("WHAT'S NEW - Commands");
             }
 
@@ -70,7 +70,7 @@ namespace stack
             }
             else if (input == "license")
             {
-                Console.WriteLine(" INSTALLATION AND USE RIGHTS.  General.You may use any number of copies of the software to develop and test your applications, including deployment within your internal corporate network.");
+                Console.WriteLine(" INSTALLATION AND USE RIGHTS. You may use any number of copies of the software to develop and test your applications, including deployment within your internal corporate network.");
             }
             else if (input == "printcolor")
             {
