@@ -29,4 +29,4 @@ Push those changes to the forked repository on Github via: git push origin <your
  
 # How it works
 
-OpiaOS functions thanks to Cosmos Kit that we mentioned earlier and is based on a monolithic kernel programmed in Visual C#.
+OpiaOS functions thanks to Cosmos Kit that we mentioned earlier and is based on a monolithic kernel programmed in Visual C# and Assembly code.
